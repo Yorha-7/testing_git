@@ -1,0 +1,3 @@
+so this is basically the first time iam doing git via terminal, befor ei was having trouble with the password to add the remote repo , but now it is solved,
+thanks git. now i need to learn the version management on the github, so that for everytime verdion management i donnt have to be dependent on the docker
+
